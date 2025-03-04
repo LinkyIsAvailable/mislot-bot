@@ -2,7 +2,7 @@
 
 # Assistance Bot Discord
 
-This Discord bot lets users easily search for information on various services (employment, housing, training, mobility, health) in their department in France. The main code is based in french language, you can edit it on yours if you want to.
+This is a disnake Discord bot. It lets users easily search for information on various services (employment, housing, training, mobility, health) in their department in France. The main code is based in french language, you can edit it on yours if you want to.
 
 ## Features 
 
