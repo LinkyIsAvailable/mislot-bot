@@ -4,8 +4,8 @@ from tavily import TavilyClient
 
 # List of authorized server IDs
 AUTHORIZED_SERVERS = [
-    1234,  # Replace by your actual server IDs
-    1234
+    12345,  # Replace by your actual server IDs
+    12345
 ]
 
 intents = disnake.Intents.default()
